@@ -3564,7 +3564,7 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 
 @media screen and (max-width: 736px) {
     #main>.post {
-        padding: 3rem 2rem 2rem 2rem;
+        padding: 2rem 2rem 2rem 5rem;
     }
     #main>.post header.major>.date {
         margin-top: -1rem;
